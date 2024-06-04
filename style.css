@@ -1,0 +1,16 @@
+.card {
+    display: flex;
+    flex-direction: column;
+  }
+  .card-body {
+    flex: 1 1 auto;
+  }
+  .text{
+    text-decoration: underline;
+    
+        font-family: "Comfortaa", sans-serif;
+        font-optical-sizing: auto;
+        font-style: normal;
+   
+      
+  }
